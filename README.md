@@ -1,4 +1,4 @@
-# FSWD Course Programs by [Your Name]
+# FSWD Course Programs by Ravi Prakasha
 
 This repository contains a collection of Java programs that I've learned during my Full Stack Web Development (FSWD) course with the C2TC program held by TNSIF. These programs cover various topics in Java programming, and I've organized them into directories for easy access and reference.
 
