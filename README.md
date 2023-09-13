@@ -2,9 +2,13 @@
 
 This repository contains a collection of Java programs that I've learned during my Full Stack Web Development (FSWD) course with the C2TC program held by TNSIF. These programs cover various topics in Java programming, and I've organized them into directories for easy access and reference.
 
-## Program Directories
+## Some Important Program Directories
 
-- [Abstraction]([https://github.com/theraviprakasha/C2TCJava/tree/main/Java](https://github.com/theraviprakasha/C2TCJava/tree/main/Java/Abstraction))
+- [Abstraction](https://github.com/theraviprakasha/C2TCJava/tree/main/Java/Abstraction)
+- [Encapsulation](https://github.com/theraviprakasha/C2TCJava/tree/main/Java/Encapsulation)
+- [Inheritance](https://github.com/theraviprakasha/C2TCJava/tree/main/Java/Inheritance)
+- [Polymorphism](https://github.com/theraviprakasha/C2TCJava/tree/main/Java/Polymorphism)
+- [TaxCalculation](https://github.com/theraviprakasha/C2TCJava/tree/main/Java/TaxCalculation)
 
 
 ## How to Use and Run the Programs
