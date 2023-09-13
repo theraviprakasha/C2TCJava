@@ -4,7 +4,7 @@ This repository contains a collection of Java programs that I've learned during 
 
 ## Program Directories
 
-- [Java](https://github.com/theraviprakasha/C2TCJava/tree/main/Java): Demonstrates concepts in Java.
+- [Abstraction]([https://github.com/theraviprakasha/C2TCJava/tree/main/Java](https://github.com/theraviprakasha/C2TCJava/tree/main/Java/Abstraction))
 
 
 ## How to Use and Run the Programs
