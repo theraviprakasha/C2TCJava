@@ -1,5 +1,4 @@
 package com.tnsif.exceptionhandling;
-
 import java.util.Scanner;
 
 public class UsingThrowDemo {
