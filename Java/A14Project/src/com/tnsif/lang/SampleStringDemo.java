@@ -1,5 +1,4 @@
 package com.tnsif.lang;
-
 public class SampleStringDemo {
 
 	public static void main(String args[]) {
