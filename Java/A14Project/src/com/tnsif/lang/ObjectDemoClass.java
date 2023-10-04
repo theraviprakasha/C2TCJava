@@ -6,7 +6,6 @@ class Sample{
 		
 	}
 }
-
 class Demo{
 
 	public Demo() {
@@ -23,7 +22,6 @@ class Demo{
 		return new Sample();
 	}
 }
-
 public class ObjectDemoClass {
 
 	public static void main(String[] args) {
