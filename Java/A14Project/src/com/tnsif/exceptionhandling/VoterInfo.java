@@ -2,7 +2,6 @@ package com.tnsif.exceptionhandling;
 
 public class VoterInfo {
 	 String name;
-	
 	private int age;
 	public String getName() {
 		return name;
