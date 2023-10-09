@@ -6,8 +6,7 @@ import java.io.InputStreamReader;
 
 public class CheckedException {
 	/**
-	 * Reads a line of text from the console.
-	 *
+	 * Reads a line of text from the console
 	 * @return the string entered by the user
 	 * @throws IOException if an I/O error occurs while reading the input
 	 */
@@ -20,5 +19,4 @@ public class CheckedException {
 			return str;
 		}
 	}
-
 }
