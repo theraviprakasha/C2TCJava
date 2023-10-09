@@ -1,4 +1,5 @@
 package com.tnsif.exceptionhandling;
+
 public class VoterInfo {
 	 String name;
 	
@@ -27,3 +28,4 @@ public class VoterInfo {
 		return "VoterInfo [name=" + name + ", age=" + age + "]";
 	}
 }
+
