@@ -15,8 +15,8 @@ public class ThreadMethodsDemo {
 		Thread.currentThread().setPriority(Thread.MIN_PRIORITY); 
 		System.out.println("Current Thread: " + Thread.currentThread());
 		try {
-			t1.join(); // wait current thread until t1 is dead
-			t2.join(); // wait current thread until t2 is dead or time period is over
+			t1.join(); 
+			t2.join(); 
 		} catch (InterruptedException e) {
 			Thread.currentThread().interrupt(); // Restore interrupted status
 			System.err.println("Thread interrupted: " + e.getMessage());
