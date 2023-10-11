@@ -5,13 +5,13 @@ import java.io.Serializable;
 public class ThreadMethodsDemo {
 
 	public static void main(String[] args) {
-		ChildThread t1 = new ChildThread(5, "First"); // creating child thread object
-		ChildThread t2 = new ChildThread(10, "Second"); // creating child thread object
+		ChildThread t1 = new ChildThread(5, "First"); 
+		ChildThread t2 = new ChildThread(10, "Second"); 
 
-		System.out.println("Current Thread: " + Thread.currentThread());// returns current thread
+		System.out.println("Current Thread: " + Thread.currentThread());
 		t1.start();
 		t2.start();
-		Thread.currentThread().setName("Parent Thread"); // assign name to thread
+		Thread.currentThread().setName("Parent Thread"); 
 		Thread.currentThread().setPriority(Thread.MIN_PRIORITY); // changing priority of the thread
 		System.out.println("Current Thread: " + Thread.currentThread());// returns current thread
 		try {
