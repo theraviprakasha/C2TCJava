@@ -12,8 +12,8 @@ public class ThreadMethodsDemo {
 		t1.start();
 		t2.start();
 		Thread.currentThread().setName("Parent Thread"); 
-		Thread.currentThread().setPriority(Thread.MIN_PRIORITY); // changing priority of the thread
-		System.out.println("Current Thread: " + Thread.currentThread());// returns current thread
+		Thread.currentThread().setPriority(Thread.MIN_PRIORITY); 
+		System.out.println("Current Thread: " + Thread.currentThread());
 		try {
 			t1.join(); // wait current thread until t1 is dead
 			t2.join(); // wait current thread until t2 is dead or time period is over
