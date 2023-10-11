@@ -21,4 +21,5 @@ public class PercentageValidator {
 			throw new Exception("Percentage should be between 0 and 100");
 		}
 	}
+
 }
