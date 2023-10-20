@@ -8,7 +8,6 @@ public class RunnableDemo {
 		Thread t2=new Thread(ur1);
 		t1.start();
 		t2.start();
-		
 		try {
 			t1.join();
 			t2.join();
