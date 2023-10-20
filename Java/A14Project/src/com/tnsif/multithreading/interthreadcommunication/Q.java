@@ -17,6 +17,7 @@ public class Q {
 		System.out.println("Put : " + n);
 		notify();
 	}
+
 	public synchronized void get() {
 		if (!valueSet) {
 			try {
