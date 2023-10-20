@@ -4,7 +4,6 @@ public class UsingRunnable implements Runnable{
  private int l;
  private int h;
  private String msg;
- 
 	public UsingRunnable(int l, int h, String msg) {
 	super();
 	this.l = l;
