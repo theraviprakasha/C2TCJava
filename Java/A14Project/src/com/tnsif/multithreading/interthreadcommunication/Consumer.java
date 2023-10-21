@@ -2,12 +2,10 @@ package com.tnsif.multithreading.interthreadcommunication;
 
 public class Consumer extends Thread{
 		Q obj; 
-
 		public Consumer(Q obj) {
 			this.obj = obj;
 			start();
 		}
-
 		public void run() {
 				while (true) {
 				try {
