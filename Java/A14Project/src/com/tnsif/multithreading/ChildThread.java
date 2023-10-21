@@ -9,7 +9,6 @@ public class ChildThread extends Thread {
 	        this.n = n;
 	        this.msg = msg;
 	    }
-
 	    @Override
 	    public void run() {
 	        for (int i = 1; i <= n; i++) {
