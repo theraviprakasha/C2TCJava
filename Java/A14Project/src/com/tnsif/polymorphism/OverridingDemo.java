@@ -17,7 +17,6 @@ public class OverridingDemo {
 		System.out.println(c);
 
 	}
-	
 	void m1() {
 		int b=10;
 		System.out.println(b);
