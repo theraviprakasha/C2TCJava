@@ -2,6 +2,7 @@ package com.tnsif.multithreading.interthreadcommunication;
 
 public class Producer extends Thread{
 	Q obj;
+
 	public Producer(Q obj) {		
 		this.obj = obj;
 		start();
