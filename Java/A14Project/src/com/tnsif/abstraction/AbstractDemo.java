@@ -19,7 +19,6 @@ public class AbstractDemo {
 		Shape shape;
 		shape=new Square(12.5f);
 		
-		
 		shape.calArea(); // invoked Square class calArea()
 		shape.show();
 		
