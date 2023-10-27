@@ -21,5 +21,3 @@ public class Polymorphism {
 	}
 
 }
-//two types 1.method overloading-same name different parameters   
-//2.method overriding-same parameter same name
