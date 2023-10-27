@@ -5,8 +5,6 @@ public class Person {
     private int age;
     private double tax;
 
-    // Getter and setter methods for all attributes
-
     public String getName() {
         return name;
     }
