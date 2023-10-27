@@ -41,8 +41,3 @@ public class Encapsulation {
         System.out.println(object.getSpeed());
 	}
 }
-
-//Encapsulation is the concept in java and it is object oriented and wrapping data variable and data methods under a single unit
-//in this pgm methods getspeed,setspeed,display are under a single unit means single {}
-//Abstraction is the concept in java and it is object oriented
-//in this pgm public means any body can access,to use abstraction replace public with private or protected these are called as access modifires
