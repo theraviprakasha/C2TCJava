@@ -19,7 +19,6 @@ public class Main {
         System.out.println(person1);
         System.out.println(person2);
     }
-
     // Function to calculate tax
     private static void calculateTax(Person person) {
         if (person.getIncome() <= 160000) {
