@@ -19,6 +19,5 @@ public class Inheritence extends parent
 		Inheritence i = new Inheritence();
 		i.add(2, 2);
 	}
-
 }
 //Inheritance is the concept in java and it is object oriented  to create a new class by inheriting the properties of its parent class
