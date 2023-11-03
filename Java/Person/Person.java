@@ -7,7 +7,6 @@ public class Person {
     private double tax; // Changed data type to double
 
     // Getter and Setters (getters and setters for all fields)
-
     public double getTax() {
         return tax;
     }
