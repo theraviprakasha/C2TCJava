@@ -1,6 +1,5 @@
 package com.tnsif.abstraction;
 
-
 public class AbstractDemo {
 
 	public static void main(String[] args) {
