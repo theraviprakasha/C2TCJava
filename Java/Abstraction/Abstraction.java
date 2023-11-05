@@ -9,7 +9,6 @@ class Seltos {
         this.speed = speed;
     }
 }
-
 public class Abstraction {
     int noCar; // Integer variable 'noCar' (not initialized)
     String Model = "Royal enfield"; // String variable 'Model' initialized with "Royal enfield"
