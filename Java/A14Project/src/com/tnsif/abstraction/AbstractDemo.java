@@ -1,5 +1,6 @@
 package com.tnsif.abstraction;
 
+
 public class AbstractDemo {
 
 	public static void main(String[] args) {
@@ -17,6 +18,7 @@ public class AbstractDemo {
 		
 		Shape shape;
 		shape=new Square(12.5f);
+		
 		
 		shape.calArea(); // invoked Square class calArea()
 		shape.show();
