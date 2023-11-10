@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+
 public class CheckedException {
 	/**
 	 * Reads a line of text from the console.
