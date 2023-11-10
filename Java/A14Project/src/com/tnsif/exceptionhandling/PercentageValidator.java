@@ -14,6 +14,7 @@ public class PercentageValidator {
 		return n;
 	}
 
+	
 	static void isValidPercentage(float per) throws Exception {
 		if (per >= 0 && per <= 100) {
 			System.out.println("Valid percentage: " + per);
