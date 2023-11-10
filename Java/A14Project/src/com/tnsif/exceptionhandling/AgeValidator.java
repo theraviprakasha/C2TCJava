@@ -1,5 +1,6 @@
 package com.tnsif.exceptionhandling;
 
+
 public class AgeValidator {
     static void validateAge(int age) throws InvalidAgeException {
     if (age<18) {
