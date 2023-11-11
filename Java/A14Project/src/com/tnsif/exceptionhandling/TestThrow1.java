@@ -1,5 +1,6 @@
 package com.tnsif.exceptionhandling;
 
+
 public class TestThrow1
 {
 static void validate(int age)
