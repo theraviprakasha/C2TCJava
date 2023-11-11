@@ -24,6 +24,7 @@ public class StudentInfo {
 		this.per = per;
 	}
 	
+	
 	public void show()
 	{
 		try
