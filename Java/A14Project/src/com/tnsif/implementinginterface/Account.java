@@ -1,5 +1,6 @@
 package com.tnsif.implementinginterface;
 
+
 public class Account {
 	
 	private int accNo;
