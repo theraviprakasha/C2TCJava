@@ -1,6 +1,5 @@
 package com.tnsif.implementinginterface;
 
-
 public interface Bank {
   double MIN_BALANCE = 1000;
  double DEPOSIT_LIMIT = 25000;
