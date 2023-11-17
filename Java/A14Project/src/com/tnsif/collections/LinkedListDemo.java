@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.ListIterator;
 
+
 public class LinkedListDemo {
 
 	public static void main(String[] args) {
