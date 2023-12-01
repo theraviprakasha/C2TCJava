@@ -4,7 +4,6 @@ class parent{
 	}
 }
 
-
 public class Inheritence extends parent
 //overrides com.accenture.pgm.parent.add
 {
