@@ -8,6 +8,7 @@ public abstract class Shape {
 		super();
 	}
 
+	
 	//abstract method 
 	abstract void calArea();
 	
